@@ -3,6 +3,10 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
+// This piece of code was generated with online transcoding practices by artist Boris Aiub for the DSTRCTV_ART_24 Exhibition.
+// Curated by Carlos Herrera (aka Ave Miseria) at DE SOUSA GALERIA. Buenos Aires, AGO. 2024
+// remapping in code "1961 Arte Destructivo" picture to use as source code of low fi screens att. to precarious nature based cyberweapons.
+
 #define OLED_RESET 4
 Adafruit_SSD1306 display(OLED_RESET);
 
